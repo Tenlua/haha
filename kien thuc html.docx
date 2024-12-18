@@ -1,0 +1,63 @@
+<!DOCTYPE html>: Khai b¨¢o lo?i t¨¤i li?u HTML	<html>: Th? g?c, bao quanh to¨¤n b? n?i dung HTML.
+<head>: Ch?a th?ng tin meta c?a trang web (kh?ng hi?n th? tr?c ti?p)
+	<title>: Ti¨ºu ?? trang web, hi?n th? tr¨ºn tab tr¨¬nh duy?t
+<body>: Ch?a n?i dung hi?n th? tr¨ºn trang web	<link>: Li¨ºn k?t ??n c¨¢c t¨¤i nguy¨ºn b¨ºn ngo¨¤i nh? CSS.
+<style>: Ch?a m? CSS ?? t?o ki?u cho trang web.	<script>: Ch?a m? JavaScript.
+<meta>: Cung c?p metadata nh? charset, description, keywords,...
+
+<h1> ??n <h6>: C¨¢c c?p ?? ti¨ºu ?? (heading), t? l?n ??n nh?	<div>: Phan chia n?i dung th¨¤nh c¨¢c kh?i (division)
+<p>: ?o?n v?n b?n (paragraph)	<span>: ?¨¢nh d?u m?t ph?n n?i dung trong d¨°ng (inline)
+<a>: Li¨ºn k?t (anchor), d?n ??n trang web ho?c t¨¤i nguy¨ºn kh¨¢c	<br>: Ng?t d¨°ng (break)
+<img>: Ch¨¨n h¨¬nh ?nh (image)	&nbsp;: Kho?ng tr?ng (non-breaking space)
+
+
+
+
+
+
+
+
+
+
+
+
+Danh s¨¢ch:
+?<ul>: Danh s¨¢ch kh?ng th? t? (unordered list).
+?<ol>: Danh s¨¢ch c¨® th? t? (ordered list).
+?<li>: M?c trong danh s¨¢ch (list item).
+?<dl>: Danh s¨¢ch ??nh ngh?a (definition list).
+?<dt>: Thu?t ng? (definition term).
+?<dd>: ??nh ngh?a c?a thu?t ng? (definition description).
+B?ng:
+?<table>: B?ng (table).
+?<tr>: H¨¤ng trong b?ng (table row).
+?<td>: ? d? li?u (table data cell).
+?<th>: ? ti¨ºu ?? (table header cell).
+?<caption>: Ch¨² th¨ªch b?ng (table caption).
+Form:
+?<form>: Bi?u m?u (form).
+?<input>: ? nh?p li?u, c¨® nhi?u lo?i (text, password, submit,...).
+?<textarea>: ? nh?p li?u v?n b?n nhi?u d¨°ng.
+?<button>: N¨²t b?m (button).
+?<select>: Danh s¨¢ch l?a ch?n (dropdown list).
+?<option>: L?a ch?n trong danh s¨¢ch.
+?<label>: Nh?n cho ? nh?p li?u.
+?<fieldset>: Nh¨®m c¨¢c ph?n t? trong form.
+?<legend>: Ti¨ºu ?? cho fieldset.
+??nh d?ng:
+?<b> ho?c <strong>: In ??m (bold).
+?<i> ho?c <em>: In nghi¨ºng (italic).
+?<u>: G?ch chan (underline).
+?<sub>: Ch? s? d??i (subscript).
+?<sup>: Ch? s? tr¨ºn (superscript).
+?<pre>: Gi? nguy¨ºn ??nh d?ng v?n b?n (preformatted).
+?<code>: ?¨¢nh d?u ?o?n m? (code).
+?<mark>: ?¨¢nh d?u v?n b?n (marker).
+Multimedia:
+?<audio>: ?m thanh (audio).
+?<video>: Video.
+?<iframe>: Nh¨²ng n?i dung t? trang web kh¨¢c (inline frame).
+
+
+
+
